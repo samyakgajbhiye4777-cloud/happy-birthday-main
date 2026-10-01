@@ -38,9 +38,6 @@ Create personalized birthday wishes with style and ease! This project allows you
     - Enable GitHub Pages in the repository settings.  
     - Alternatively, deploy using [Netlify](https://www.netlify.com/) or [Vercel](https://vercel.com/).  
 
-## Live Demo  
-
-Check out the demo: [https://afsify.github.io/happy-birthday](https://afsify.github.io/happy-birthday)  
 
 ## Technologies Used  
 
